@@ -1,0 +1,9 @@
+Question 1 : Quel type de cloud avez-vous utilisé ? J ai utilise le cloud public saas .
+
+Question 2 : Quel modele Cloud ? J ai utilise le modele PaaS (Platform as a Service) car GitHub Pages fournit une plateforme pour heberger mon site sans que j aie a gerer un serveur.
+
+Question 3 : Quels avantages du Cloud ?  Les avantages sont la disponibilite depuis n importe ou, la simplicite de deploiement, la mise a jour facile, le partage simple par un lien, et le cout nul pour ce TP.
+
+Question 4 : Quelle difference entre hebergement local et Cloud ?  En local, mon CV est visible seulement sur mon ordinateur. Dans le cloud, il est accessible a tous via un lien public sans besoin d etre sur ma machine.
+
+bibich mohamed . 
